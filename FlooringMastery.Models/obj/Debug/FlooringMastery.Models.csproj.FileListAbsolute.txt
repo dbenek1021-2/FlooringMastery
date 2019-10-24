@@ -1,0 +1,12 @@
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csprojAssemblyReference.cache
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csproj.CoreCompileInputs.cache
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csprojAssemblyReference.cache
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csproj.CoreCompileInputs.cache
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb

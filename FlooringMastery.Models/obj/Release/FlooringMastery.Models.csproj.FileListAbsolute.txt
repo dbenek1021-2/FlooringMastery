@@ -1,0 +1,6 @@
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Models\bin\Release\FlooringMastery.Models.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Models\bin\Release\FlooringMastery.Models.pdb
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Models\obj\Release\FlooringMastery.Models.csprojAssemblyReference.cache
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Models\obj\Release\FlooringMastery.Models.csproj.CoreCompileInputs.cache
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Models\obj\Release\FlooringMastery.Models.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Models\obj\Release\FlooringMastery.Models.pdb
