@@ -1,0 +1,17 @@
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Tests\bin\Release\FlooringMastery.Tests.dll.config
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Tests\bin\Release\FlooringMastery.Tests.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Tests\bin\Release\FlooringMastery.Tests.pdb
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Tests\bin\Release\FlooringMastery.BLL.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Tests\bin\Release\FlooringMastery.Data.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Tests\bin\Release\FlooringMastery.Models.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Tests\bin\Release\nunit.framework.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Tests\bin\Release\FlooringMastery.BLL.pdb
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Tests\bin\Release\FlooringMastery.Data.pdb
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Tests\bin\Release\FlooringMastery.Models.pdb
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Tests\bin\Release\nunit.framework.pdb
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Tests\bin\Release\nunit.framework.xml
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Tests\obj\Release\FlooringMastery.Tests.csprojAssemblyReference.cache
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Tests\obj\Release\FlooringMastery.Tests.csproj.CoreCompileInputs.cache
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Tests\obj\Release\FlooringMastery.Tests.csproj.CopyComplete
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Tests\obj\Release\FlooringMastery.Tests.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\FlooringMastery\FlooringMastery.Tests\obj\Release\FlooringMastery.Tests.pdb
