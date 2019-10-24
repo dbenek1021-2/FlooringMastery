@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Acme Inc.,OH,6.25,Carpet,253,2.25,2.10,569.25,531.30,68.78,1169.33
+2,SHIELD,PA,6.75,Tile,2533,3.50,4.15,8865.50,10511.95,1307.98,20685.43
+3,Shia Labeouf,OH,6.25,Laminate,532,1.75,2.10,931.00,1117.20,128.01,2176.21

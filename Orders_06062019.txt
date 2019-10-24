@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+4,Bye,PA,6.75,Laminate,999,1.75,2.10,1748.25,2097.90,259.62,4105.77
+6,Jio,IN,6.00,Tile,12222,3.50,4.15,42777.00,50721.30,5609.90,99108.20
+7,Tyr,PA,6.75,Wood,2000,5.15,4.75,10300.00,9500.00,1336.50,21136.50
